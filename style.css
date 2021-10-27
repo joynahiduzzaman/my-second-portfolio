@@ -1,0 +1,100 @@
+body{
+    font-family: 'Zen Antique Soft', serif;
+    margin: 0px;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 35px;
+}
+p{
+    font-size: 20px;
+    color: dimgray;
+    margin-bottom: 40px;
+}
+.pink-highlight{
+    color:#e72868;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 7%;
+    padding-left: 2%;
+    margin-top: 100px;
+}
+.half-width img{
+    width: 100%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg , #FA8072, #e72868);
+    padding: 10px 30px;
+    border-radius: 5px;
+    color: white;
+    font-family: 700;
+}
+.first-banner{
+    background-image: url("personal-website-images/header-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.second-banner{
+    background-image: url("personal-website-images/biography-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.third-banner{
+    background-image: url("personal-website-images/latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.last-banner{
+    background-image: url("personal-website-images/footer-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+section{
+    height: 800px;
+}
+.third-banner-images{
+    width: 25%;
+    float: left;
+    margin-left: 2%;
+    padding: 2%;
+    margin-top: 100px;
+}
+.third-banner-images img{
+    width: 100%;
+}
+.third-banner h2{
+    text-align: center;
+}
+.fourth-banner{
+    text-align: center;
+    margin-bottom: 100px;
+}
+.fourth-banner h2{
+    margin-bottom: 60px;
+}
+.fourth-banner h4{
+    font-size: 10px;
+    color: dimgray;
+}
+.fourth-design{
+    text-align: center;
+    color: white;
+    background-color: tomato;
+    margin-left: 400px;
+    margin-right: 400px;
+    padding: 30px;
+    border-radius: 10px;
+}
+.fourth-design h4{
+    font-size: 10px;
+}
+footer p{
+    text-align: center;
+    font-size: 20px;
+    
+}
